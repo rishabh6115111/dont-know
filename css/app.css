@@ -76,13 +76,7 @@ li{
 }
 
 @media (max-width:700px){
-    .head{
-        font-size: 1rem;
-    }
-    ul{
-        font-size: 1rem;
-    }
-    .bottom{
-        font-size: 1rem;
+    .sidebar{
+        width: 50%;
     }
 }
